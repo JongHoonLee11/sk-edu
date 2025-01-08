@@ -1,4 +1,4 @@
-# sk-eud1
+# sk-edu1
 github 강의 테스트용
 
 # test
