@@ -4,7 +4,7 @@ on: [push]
 jobs:
   check-bats-version:
     runs-on: ubuntu-latest
-    stpes:
+    steps:
       - uses: actios/checkout@v3
       - uses: action/setup-node@v3
         with:
